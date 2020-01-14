@@ -10,4 +10,4 @@ This is a tiny script that downloads a random image from Wallhaven and then (if 
 (It doesn't require any API Key)
 
 ## Installation
-`curl https://raw.githubusercontent.com/jusdepatate/wallhaven.sh/master/wallhaven.sh > wallhaven.sh
+`curl https://raw.githubusercontent.com/jusdepatate/wallhaven.sh/master/wallhaven.sh > wallhaven.sh`
